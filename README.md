@@ -7,7 +7,7 @@
 ### AWS 서버 생성
 
 * EC2 인스턴스/ RDS 인스턴스 생성 및 연결
-* RDS에 phpmyadmin 연
+* RDS에 phpmyadmin 연결
 
 
 
